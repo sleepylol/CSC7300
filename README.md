@@ -1,2 +1,2 @@
 # CSC7300
-BioinformaticsI
+Bioinformatics I
